@@ -1,0 +1,11 @@
+Acme Corp - Software Engineer
+
+We're looking for a Software Engineer to build and maintain backend services.
+
+Requirements:
+- 2+ years of experience with Python
+- Experience with REST APIs and SQL databases
+- Familiarity with cloud platforms (AWS or GCP)
+
+Nice to have:
+- Docker and CI/CD experience

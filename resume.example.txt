@@ -1,0 +1,25 @@
+PPG Industries - Data Analyst
+- Built PPG's on-time delivery dashboard from scratch, pulling from ERP, logistics, and production systems across 5+ regions; it's now part of the supply chain team's daily stand-up
+- Analyzed 500K+ monthly order lines in SQL and Python to find root causes of late shipments (production bottlenecks, carrier delays, route problems), contributing to a 20% drop in late deliveries over two quarters
+- Built a Python model that scores orders by delivery risk, so planners get a heads-up before a shipment becomes a problem
+- Standardized KPI definitions across supply chain, logistics, and planning by moving three teams onto shared SQL views, bringing reporting consistency up 45%
+- Automated 6 weekly manual reports, cutting reporting time by 40%+; containerized the ETL pipeline with Docker and scheduled it with AWS Lambda and Airflow, with data quality checks at each step
+- Contributing to an early-stage Snowflake AI agent POC for data validation; use Claude and GitHub Copilot daily to debug Python, tune SQL, and write documentation
+
+VMware (Broadcom) - Data Analyst
+- Rebuilt ETL pipelines handling 50-100GB of daily financial and SOX data from Oracle using Talend, Alteryx, and SQL; switching to Change Data Capture drove a 50% speed improvement
+- Added SQL checks for reconciliation, duplicates, and missing values to keep reporting SOX and GAAP compliant, with zero audit findings across 2.5 years
+- Built Power BI dashboards that C-suite and external auditors used each quarter to review financial KPIs, hitting every hard deadline
+- Took quarterly close reporting from several days of manual work to under 2 hours by automating the full pipeline in Python and SQL
+- Worked with Finance, Legal, and Audit in biweekly Agile sprints to turn SOX and GAAP requirements into validation rules built directly into the pipeline
+
+Project - F1 Race Winner Predictor
+- Built a Random Forest classifier in Python and scikit-learn that predicts F1 race winners from qualifying data, using FastF1 telemetry and engineered features; hit 46.7% accuracy vs. a 5% random baseline
+
+Project - Logistics Route Optimization
+- Reconciled freight, carrier, and route data from three mismatched systems using fuzzy matching in SQL and Python
+- Identified $500K+ in cost-saving opportunities; the Power BI dashboard became leadership's go-to for carrier contract decisions
+
+Project - US Hospital Readmissions Analysis
+- Analyzed 30-day readmission patterns across 3,000+ US hospitals using CMS Medicare data in Python and SQL
+- Found that 56% of records lacked enough sample data to draw conclusions, pointing to a gap in rural hospital reporting; built a Tableau dashboard of readmission rates by condition and state

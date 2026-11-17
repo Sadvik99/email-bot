@@ -1,0 +1,9 @@
+# Private: never upload
+resume.pdf
+resume.txt
+jobs.csv
+.env
+
+# Python junk
+__pycache__/
+.DS_Store

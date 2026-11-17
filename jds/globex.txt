@@ -1,0 +1,11 @@
+Globex - Data Analyst
+
+Globex is hiring a Data Analyst to turn business data into clear insights.
+
+Requirements:
+- Strong SQL and Excel skills
+- Experience with Python (pandas) or R
+- Ability to build dashboards (Tableau or Power BI)
+
+Nice to have:
+- Basic statistics and A/B testing knowledge
